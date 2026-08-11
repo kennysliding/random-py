@@ -1,0 +1,9 @@
+{
+  "questionId": "300",
+  "titleSlug": "longest-increasing-subsequence",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def lengthOfLIS(self, nums: List[int]) -> int:\n        ",
+  "sampleTestCase": "[10,9,2,5,3,7,101,18]",
+  "exampleTestcases": "[10,9,2,5,3,7,101,18]\n[0,1,0,3,2,3]\n[7,7,7,7,7,7,7]",
+  "inputLineCount": 1
+}

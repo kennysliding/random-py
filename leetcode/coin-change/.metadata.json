@@ -1,0 +1,9 @@
+{
+  "questionId": "322",
+  "titleSlug": "coin-change",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def coinChange(self, coins: List[int], amount: int) -> int:\n        ",
+  "sampleTestCase": "[1,2,5]\n11",
+  "exampleTestcases": "[1,2,5]\n11\n[2]\n3\n[1]\n0",
+  "inputLineCount": 2
+}

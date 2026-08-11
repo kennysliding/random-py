@@ -1,0 +1,9 @@
+{
+  "questionId": "909",
+  "titleSlug": "stone-game",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def stoneGame(self, piles: List[int]) -> bool:\n        ",
+  "sampleTestCase": "[5,3,4,5]",
+  "exampleTestcases": "[5,3,4,5]\n[3,7,2,3]",
+  "inputLineCount": 1
+}

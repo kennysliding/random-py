@@ -1,0 +1,9 @@
+{
+  "questionId": "64",
+  "titleSlug": "minimum-path-sum",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def minPathSum(self, grid: List[List[int]]) -> int:\n        ",
+  "sampleTestCase": "[[1,3,1],[1,5,1],[4,2,1]]",
+  "exampleTestcases": "[[1,3,1],[1,5,1],[4,2,1]]\n[[1,2,3],[4,5,6]]",
+  "inputLineCount": 1
+}

@@ -1,0 +1,9 @@
+{
+  "questionId": "5",
+  "titleSlug": "longest-palindromic-substring",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def longestPalindrome(self, s: str) -> str:\n        ",
+  "sampleTestCase": "\"babad\"",
+  "exampleTestcases": "\"babad\"\n\"cbbd\"",
+  "inputLineCount": 1
+}

@@ -1,0 +1,9 @@
+{
+  "questionId": "1894",
+  "titleSlug": "merge-strings-alternately",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def mergeAlternately(self, word1: str, word2: str) -> str:\n        ",
+  "sampleTestCase": "\"abc\"\n\"pqr\"",
+  "exampleTestcases": "\"abc\"\n\"pqr\"\n\"ab\"\n\"pqrs\"\n\"abcd\"\n\"pq\"",
+  "inputLineCount": 2
+}

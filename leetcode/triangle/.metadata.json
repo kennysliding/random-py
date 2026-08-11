@@ -1,0 +1,9 @@
+{
+  "questionId": "120",
+  "titleSlug": "triangle",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def minimumTotal(self, triangle: List[List[int]]) -> int:\n        ",
+  "sampleTestCase": "[[2],[3,4],[6,5,7],[4,1,8,3]]",
+  "exampleTestcases": "[[2],[3,4],[6,5,7],[4,1,8,3]]\n[[-10]]",
+  "inputLineCount": 1
+}

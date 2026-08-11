@@ -1,0 +1,9 @@
+{
+  "questionId": "139",
+  "titleSlug": "word-break",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def wordBreak(self, s: str, wordDict: List[str]) -> bool:\n        ",
+  "sampleTestCase": "\"leetcode\"\n[\"leet\",\"code\"]",
+  "exampleTestcases": "\"leetcode\"\n[\"leet\",\"code\"]\n\"applepenapple\"\n[\"apple\",\"pen\"]\n\"catsandog\"\n[\"cats\",\"dog\",\"sand\",\"and\",\"cat\"]",
+  "inputLineCount": 2
+}

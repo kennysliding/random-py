@@ -1,0 +1,9 @@
+{
+  "questionId": "63",
+  "titleSlug": "unique-paths-ii",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:\n        ",
+  "sampleTestCase": "[[0,0,0],[0,1,0],[0,0,0]]",
+  "exampleTestcases": "[[0,0,0],[0,1,0],[0,0,0]]\n[[0,1],[0,0]]",
+  "inputLineCount": 1
+}

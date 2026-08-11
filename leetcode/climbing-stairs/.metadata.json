@@ -1,0 +1,9 @@
+{
+  "questionId": "70",
+  "titleSlug": "climbing-stairs",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def climbStairs(self, n: int) -> int:\n        ",
+  "sampleTestCase": "2",
+  "exampleTestcases": "2\n3",
+  "inputLineCount": 1
+}

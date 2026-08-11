@@ -1,0 +1,9 @@
+{
+  "questionId": "198",
+  "titleSlug": "house-robber",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def rob(self, nums: List[int]) -> int:\n        ",
+  "sampleTestCase": "[1,2,3,1]",
+  "exampleTestcases": "[1,2,3,1]\n[2,7,9,3,1]",
+  "inputLineCount": 1
+}
