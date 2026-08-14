@@ -1,0 +1,9 @@
+{
+  "questionId": "3463",
+  "titleSlug": "alternating-groups-i",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def numberOfAlternatingGroups(self, colors: List[int]) -> int:\n        ",
+  "sampleTestCase": "[1,1,1]",
+  "exampleTestcases": "[1,1,1]\n[0,1,0,0,1]",
+  "inputLineCount": 1
+}

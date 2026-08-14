@@ -1,0 +1,9 @@
+{
+  "questionId": "3236",
+  "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def missingInteger(self, nums: List[int]) -> int:\n        ",
+  "sampleTestCase": "[1,2,3,2,5]",
+  "exampleTestcases": "[1,2,3,2,5]\n[3,4,5,1,12,14,13]",
+  "inputLineCount": 1
+}

@@ -1,0 +1,9 @@
+{
+  "questionId": "97",
+  "titleSlug": "interleaving-string",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def isInterleave(self, s1: str, s2: str, s3: str) -> bool:\n        ",
+  "sampleTestCase": "\"aabcc\"\n\"dbbca\"\n\"aadbbcbcac\"",
+  "exampleTestcases": "\"aabcc\"\n\"dbbca\"\n\"aadbbcbcac\"\n\"aabcc\"\n\"dbbca\"\n\"aadbbbaccc\"\n\"\"\n\"\"\n\"\"",
+  "inputLineCount": 3
+}

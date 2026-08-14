@@ -1,0 +1,9 @@
+{
+  "questionId": "560",
+  "titleSlug": "subarray-sum-equals-k",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def subarraySum(self, nums: List[int], k: int) -> int:\n        ",
+  "sampleTestCase": "[1,1,1]\n2",
+  "exampleTestcases": "[1,1,1]\n2\n[1,2,3]\n3",
+  "inputLineCount": 2
+}

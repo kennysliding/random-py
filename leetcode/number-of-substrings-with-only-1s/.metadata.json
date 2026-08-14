@@ -1,0 +1,9 @@
+{
+  "questionId": "1636",
+  "titleSlug": "number-of-substrings-with-only-1s",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def numSub(self, s: str) -> int:\n        ",
+  "sampleTestCase": "\"0110111\"",
+  "exampleTestcases": "\"0110111\"\n\"101\"\n\"111111\"",
+  "inputLineCount": 1
+}

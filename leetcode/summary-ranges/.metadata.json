@@ -1,0 +1,9 @@
+{
+  "questionId": "228",
+  "titleSlug": "summary-ranges",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def summaryRanges(self, nums: List[int]) -> List[str]:\n        ",
+  "sampleTestCase": "[0,1,2,4,5,7]",
+  "exampleTestcases": "[0,1,2,4,5,7]\n[0,2,3,4,6,8,9]",
+  "inputLineCount": 1
+}

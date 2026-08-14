@@ -1,0 +1,9 @@
+{
+  "questionId": "188",
+  "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def maxProfit(self, k: int, prices: List[int]) -> int:\n        ",
+  "sampleTestCase": "2\n[2,4,1]",
+  "exampleTestcases": "2\n[2,4,1]\n2\n[3,2,6,5,0,3]",
+  "inputLineCount": 2
+}

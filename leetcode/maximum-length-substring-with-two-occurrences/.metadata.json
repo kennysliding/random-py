@@ -1,0 +1,9 @@
+{
+  "questionId": "3349",
+  "titleSlug": "maximum-length-substring-with-two-occurrences",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def maximumLengthSubstring(self, s: str) -> int:\n        ",
+  "sampleTestCase": "\"bcbbbcba\"",
+  "exampleTestcases": "\"bcbbbcba\"\n\"aaaa\"",
+  "inputLineCount": 1
+}

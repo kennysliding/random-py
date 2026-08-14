@@ -1,0 +1,9 @@
+{
+  "questionId": "72",
+  "titleSlug": "edit-distance",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def minDistance(self, word1: str, word2: str) -> int:\n        ",
+  "sampleTestCase": "\"horse\"\n\"ros\"",
+  "exampleTestcases": "\"horse\"\n\"ros\"\n\"intention\"\n\"execution\"",
+  "inputLineCount": 2
+}

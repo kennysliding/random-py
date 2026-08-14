@@ -1,0 +1,9 @@
+{
+  "questionId": "303",
+  "titleSlug": "range-sum-query-immutable",
+  "lang": "python3",
+  "originalSnippet": "class NumArray:\n\n    def __init__(self, nums: List[int]):\n        \n\n    def sumRange(self, left: int, right: int) -> int:\n        \n\n\n# Your NumArray object will be instantiated and called as such:\n# obj = NumArray(nums)\n# param_1 = obj.sumRange(left,right)",
+  "sampleTestCase": "[\"NumArray\",\"sumRange\",\"sumRange\",\"sumRange\"]\n[[[-2,0,3,-5,2,-1]],[0,2],[2,5],[0,5]]",
+  "exampleTestcases": "[\"NumArray\",\"sumRange\",\"sumRange\",\"sumRange\"]\n[[[-2,0,3,-5,2,-1]],[0,2],[2,5],[0,5]]",
+  "inputLineCount": 2
+}

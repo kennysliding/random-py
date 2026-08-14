@@ -1,0 +1,9 @@
+{
+  "questionId": "53",
+  "titleSlug": "maximum-subarray",
+  "lang": "python3",
+  "originalSnippet": "class Solution:\n    def maxSubArray(self, nums: List[int]) -> int:\n        ",
+  "sampleTestCase": "[-2,1,-3,4,-1,2,1,-5,4]",
+  "exampleTestcases": "[-2,1,-3,4,-1,2,1,-5,4]\n[1]\n[5,4,-1,7,8]",
+  "inputLineCount": 1
+}
